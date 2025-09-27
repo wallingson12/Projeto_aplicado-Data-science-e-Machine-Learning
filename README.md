@@ -34,7 +34,7 @@ Treino/
 
 ```bash
 pip install -r requirements.txt
-'''
+...
 2. Para treinar o modelo:
 python Treinamento_classificador.py
 
