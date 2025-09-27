@@ -59,9 +59,3 @@ Naive Bayes	            |0.82    |0.81
 Métricas avaliadas
 
 Durante a avaliação dos modelos, são usadas as seguintes métricas:
-
-@@ Métrica	Descrição breve
-
-Accuracy	Proporção de classificações corretas sobre o total.
-F1-score	Média harmônica entre precisão e recall.
-Precision	Proporção de positivos previstos que são realmente positivos.
