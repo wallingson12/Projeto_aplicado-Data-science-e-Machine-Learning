@@ -45,11 +45,9 @@ python teste_models.py
 python classificador.py
 
 📊 Saída
-
 O script extrai o texto dos PDFs via OCR, treina múltiplos modelos e compara os resultados de classificação por métricas como accuracy, f1-score, precision, etc.
 
 🧪 Resultado esperado
-
 Uma tabela comparativa entre os modelos:
 
 Modelo	                |Accuracy|F1-score
