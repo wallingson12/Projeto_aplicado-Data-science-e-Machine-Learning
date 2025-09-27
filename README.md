@@ -1,6 +1,6 @@
 # Classificador de PDFs com OCR e Machine Learning
 
-Este projeto aplica técnicas de **Visão Computacional**, **Processamento de Linguagem Natural (NLP)** e **Machine Learning** para classificar documentos PDF em diferentes categorias com base no texto extraído via OCR.
+Este projeto aplica técnicas de **Visão Computacional**, e **Machine Learning** para classificar documentos PDF em diferentes categorias com base no texto extraído via OCR.
 
 ## 🧠 Tecnologias utilizadas
 - Python
