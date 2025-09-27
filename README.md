@@ -11,6 +11,10 @@ Este projeto aplica técnicas de **Visão Computacional**, e **Machine Learning*
 - Pandas
 - Numpy
 
+⚠️ Requisitos
+
+Tesseract OCR instalado no sistema
+
 ## 📁 Estrutura esperada
 A pasta `Treino/` deve conter subpastas com os nomes das classes, e dentro delas os arquivos PDF.
 
@@ -30,8 +34,14 @@ Treino/
 ```bash
 pip install -r requirements.txt
 
-2. Execute o script:
-python src/classificacao_pdfs.py
+2. Para treinar o modelo:
+python Treinamento_classificador.py
+
+3. Para testar múltiplos modelos:
+python teste_models.py
+
+4. Para classificar novos PDFs:
+python classificador.py
 
 📊 Saída
 
