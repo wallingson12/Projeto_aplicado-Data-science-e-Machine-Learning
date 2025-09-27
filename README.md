@@ -51,6 +51,6 @@ O script extrai o texto dos PDFs via OCR, treina múltiplos modelos e compara os
 
 Uma tabela comparativa entre os modelos:
 
-Modelo	Accuracy	F1-score
-Logistic Regression	0.85	0.84
-Naive Bayes	0.82	0.81
+Modelo	                |Accuracy|F1-score
+Logistic Regression	    |0.85    |0.84
+Naive Bayes	            |0.82    |0.81
